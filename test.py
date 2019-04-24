@@ -1,5 +1,6 @@
 # Napiši program, ki zapiše vsa praštevila do 200.
 
+trtr
 def je_prastevilo(n):
     for i in range(2, n):
         if n % i == 0:
@@ -10,3 +11,4 @@ for x in range(2, 201):
     if je_prastevilo(x):
         print(x)
         
+tralalalalalalaOlimpija!        
